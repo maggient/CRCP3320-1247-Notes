@@ -6,3 +6,5 @@ snow
 red 
 blue
 turtle 
+red
+sink
